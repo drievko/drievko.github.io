@@ -18,9 +18,11 @@ Geboren in Bad Kissingen, begann als Achtjähriger bei den Würzburger Domsingkn
 
 Als Stimmbildner arbeitete er unter anderem beim Tölzer Knabenchor, wo er die Partien der Solisten für Produktionen bei den Salzburger Festspielen („Pelléas et Mélisande“, 1997) und den Münchner Opernfestspielen („L’incoronazione di Poppea“, 1998) einstudierte. Von 1999 bis 2002 leitete er den „Poinger Kinderchor“, für den er die Kinder-Oper „Das Kleine Weihnachts-Singspiel“ schrieb, die zwischen Dezember 1999 und 2002 an verschiedenen kleineren Bühnen in Bayern und Tirol (Theater an der Sill) aufgeführt wurde.
 
-Von September 2001 bis Februar 2013 arbeitete Matthias Holzapfel als Gesangslehrer an der Musikschule der Stadt Innsbruck. Dort bereitete er eine Vielzahl an Schülern erfolgreich für Wettbewerbe und Vorsingen vor. In den letzten Jahren errangen mehr als zwanzig seiner Schüler Preise in den Landes- und Bundeswettbewerben von „Prima la musica“. Einige von ihnen  befinden sich mittlerweile bereits in Anfangs-Engagements. Die Vorbereitung von jungen Sängern auf Hochschulstudium und Bühnenlaufbahn setzt er nun in München fort.    
+Von September 2001 bis Februar 2013 arbeitete Matthias Holzapfel als Gesangslehrer an der Musikschule der Stadt Innsbruck. Dort bereitete er eine Vielzahl an Schülern erfolgreich für Wettbewerbe und Vorsingen vor. In den letzten Jahren errangen mehr als zwanzig seiner Schüler Preise in den Landes- und Bundeswettbewerben von „[Prima la musica]“. Einige von ihnen  befinden sich mittlerweile bereits in Anfangs-Engagements. Die Vorbereitung von jungen Sängern auf Hochschulstudium und Bühnenlaufbahn setzt er nun in München fort.    
 
 2012 erschien beim Doblinger-Verlag (Wien) sein Stimmbildungs-Lehrbuch „Die Seele in Klang verwandeln“.
 
 Seit einiger Zeit nimmt er wieder Unterricht bei der Gesangspädagogin Gudrun Ayasse (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.  
 
+
+[Prima la musica]: http://www.musikderjugend.at/
