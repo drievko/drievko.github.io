@@ -23,6 +23,7 @@ a:visited { color: #a0a; }
 /* Home
 /*
 /*****************************************************************************/
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -52,23 +53,29 @@ ul.posts span {
   line-height: 1.5em;
 }
 
+.site .header {  
+  border-bottom: 3px solid #7f1734;
+  margin-bottom: 1em;
+}
+
 .site .header a {
   font-weight: bold;
   text-decoration: none;
 }
 
-.site .header h1.title {
-}
-
 .site .header h1.title a {
-  color: #a00;
-}
-
-.site .header h1.title a:hover {
+  font-size: xx-large;
   color: #000;
 }
 
+.site .header h1.title a:hover {
+  color: #7f1734;
+}
+
 .site .header h2.title {
+  font-size: large;
+  font-style: italic;
+  margin-bottom: 1em;
 }
 
 .site .header .navigation ul li {
@@ -85,22 +92,23 @@ ul.posts span {
   color: #aaa;
 }
 
+.site .header .navigation ul a:hover {
+  color: #7f1734;
+}
+
 .site .header .navigation {
   background-color: #eee;
+  margin-bottom: 1em;
 }
 
 .site .header .navigation div {
   clear: left;
 }
 
-.site .meta {
-  color: #aaa;
-}
-
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 3px solid #7f1734;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -112,16 +120,6 @@ ul.posts span {
 
 .site .footer .contact a {
   color: #8085C1;
-}
-
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
 }
 
 /*****************************************************************************/
