@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Matthias Holzapfel-Drievko
 ---
 
 <div id="home">

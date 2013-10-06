@@ -11,7 +11,8 @@ body {
   text-align: center;
 }
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em; font-size: large; font-weight: bold;}
+h2 { font-size: medium; font-style: italic; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
