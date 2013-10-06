@@ -12,12 +12,18 @@ body {
 }
 
 h1 { margin-bottom: 1em; font-size: large; font-weight: bold;}
-h2 { font-size: medium; font-style: italic; }
-p { margin: 1em 0; }
+h2 { margin: 1em 0; font-size: medium; font-style: italic; }
+p  { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+
+em     { font-style: italic; }
+strong { font-weight: bold;  }
+
+ul       { list-style-type: disc; list-style-position: inside; }
+ul li ul { list-style-type: circle; margin-left: 2em; }
 
 /*****************************************************************************/
 /*
@@ -77,6 +83,11 @@ ul.posts span {
   font-size: large;
   font-style: italic;
   margin-bottom: 1em;
+}
+
+.site .header .navigation ul {
+  list-style-type: none;
+  margin: 0;
 }
 
 .site .header .navigation ul li {
