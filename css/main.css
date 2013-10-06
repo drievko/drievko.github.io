@@ -6,13 +6,13 @@
 
 body {
   background-color: #fff;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 14px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
 
-h1 { margin-bottom: 1em; font-size: large; font-weight: bold;}
-h2 { margin: 1em 0; font-size: medium; font-style: italic; }
+h1 { margin-bottom: 1em; font-size: x-large; font-weight: bold;}
+h2 { margin: 2em 0 1em; font-size: large; font-style: italic; }
 p  { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -24,6 +24,17 @@ strong { font-weight: bold;  }
 
 ul       { list-style-type: disc; list-style-position: inside; }
 ul li ul { list-style-type: circle; margin-left: 2em; }
+
+blockquote:before { content: open-quote;  float: left; }
+blockquote:after  { content: close-quote; float: right; }
+blockquote:before, blockquote:after { font-size: 3em; }
+blockquote {
+  quotes: '\201C' '\201D';
+  background-color: #eee;
+  float: left;
+  padding: 0 1em 0 1em;
+  margin-top: 2em;
+}
 
 /*****************************************************************************/
 /*
@@ -82,6 +93,7 @@ ul.posts span {
 .site .header h2.title {
   font-size: large;
   font-style: italic;
+  margin-top: 0;
   margin-bottom: 1em;
 }
 
