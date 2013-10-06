@@ -28,7 +28,7 @@ Zu den Auftritten mit Chanson-Programmen
 
 > Mit einer Sprachkultur, die ihresgleichen sucht, und stimmlicher Dynamik frischte der Sänger den völlig zu Unrecht in Vergessenheit geratenen Chansonnier Jacques Brèl auf, dessen Texte in den siebziger Jahren noch Thema des Französischunterrichts waren: Das rhythmisch flehende „Ne me quitte pas!“ („Verlass mich nicht!“) und das aufblühend schwärmerische „Au Printemps“ („An den Frühling“) waren Spitzenleistungen, die sicher noch mehr Musikfreunde der Region gern genießen würden (...)
 
-(„Von Tigerfesten, Triangelspielern und Piraten --- Gabriele Rathgeb und Matthias Drievko bereiten mitreißenden Chansonabend im Fürstensaal“, „Der Neue Tag“, 24. März 2009)
+„Von Tigerfesten, Triangelspielern und Piraten --- Gabriele Rathgeb und Matthias Drievko bereiten mitreißenden Chansonabend im Fürstensaal“, „Der Neue Tag“, 24. März 2009
 
 
 > ...Plastisch und dramatisch gelang ihm die Schilderung, wie das Pferd unter dem Kutscher zusammenbricht und fleischgierige Menschenaugen auf sich gerichtet sieht, selbst aber „noch nicht fertig mit dem Sterben“ ist. Witzig und differenziert präsentiert war Friedrich Hollaenders „Kleptomanin“. Auch die leisen Töne liegen diesem Künstler. Sie konnte man in Reinhard Meys melancholisch-poetischer Todesvision erleben.

@@ -22,8 +22,8 @@ a:visited { color: #a0a; }
 em     { font-style: italic; }
 strong { font-weight: bold;  }
 
-ul       { list-style-type: disc; list-style-position: inside; }
-ul li ul { list-style-type: circle; margin-left: 2em; }
+ul       { list-style-type: disc; margin-left: 2em; }
+ul li ul { list-style-type: circle; }
 
 blockquote:before { content: open-quote;  float: left; }
 blockquote:after  { content: close-quote; float: right; }
