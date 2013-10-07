@@ -4,9 +4,12 @@
 /*
 /*****************************************************************************/
 
+@import url(http://fonts.googleapis.com/css?family=Parisienne);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
 body {
   background-color: #fff;
-  font: 14px Helvetica, Arial, sans-serif;
+  font: 14px 'Lato', Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -24,6 +27,8 @@ strong { font-weight: bold;  }
 
 ul       { list-style-type: disc; margin-left: 2em; }
 ul li ul { list-style-type: circle; }
+
+table { border-collapse: separate; border-spacing: 1em 0.5em; }
 
 blockquote:before { content: open-quote;  float: left; }
 blockquote:after  { content: close-quote; float: right; }
@@ -66,7 +71,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 40em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -91,8 +96,8 @@ ul.posts span {
 }
 
 .site .header h2.title {
-  font-size: large;
-  font-style: italic;
+  font-family: 'Parisienne', cursive;
+  font-size: x-large;
   margin-top: 0;
   margin-bottom: 1em;
 }
@@ -111,7 +116,7 @@ ul.posts span {
 }
 
 .site .header .navigation ul a {
-  width: 100px;
+  width: 8em;
   display: block;
   color: #aaa;
 }
@@ -145,6 +150,28 @@ ul.posts span {
 .site .footer .contact a {
   color: #8085C1;
 }
+
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+#home p {
+  font-family: 'Parisienne', cursive;
+  font-size: 4em;
+}
+
+#home a {
+  text-decoration: none;
+  color: #000;
+}
+
+#home a:hover {
+  color: #7f1734;
+}
+
 
 /*****************************************************************************/
 /*

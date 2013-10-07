@@ -27,5 +27,7 @@ Dieser verheißungsvolle Ausspruch ist leider ähnlich ‚realistisch‘ wie Jos
 
 Besonders spezialisiert bin ich auf die Vorbereitung von Aufnahmeprüfungen an Hochschulen und für Wettbewerbe. Ich begleite meine Schüler meist selbst am Klavier, um ihnen in Vorsing-Situationen mehr Sicherheit geben zu können. Insbesondere arbeite ich am Aufbau einer soliden Gesangstechnik, an der Aufstellung eines individuellen Trainingsprogramms mit sowie am  künstlerischen Ausdruck. Denn: **„Jede Stimme ist Ausdruck einer einzigartigen Persönlichkeit“.** – *Dies* ist nun keine „Verheißung“, sondern eine Tatsache.
 
-Seit einiger Zeit nimmt er wieder Unterricht bei der Gesangspädagogin Gudrun Ayasse (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.  
+Seit einiger Zeit nimmt er wieder Unterricht bei der Gesangspädagogin [Gudrun Ayasse], um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
 
+
+[Gudrun Ayasse]: http://www.gudrun-ayasse.de/

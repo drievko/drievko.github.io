@@ -4,6 +4,7 @@ title: Matthias Holzapfel-Drievko
 ---
 
 <div id="home">
-  <h1>Startseite</h1>
-  <p>Hier kommt die Startseite hin.</p>
+  <p align="left"  ><a href="/gesang" >Gesang</a></p>
+  <p align="right" ><a href="/klavier">Klavier</a></p>
+  <p align="center"><a href="/theorie">Musiktheorie</a></p>
 </div>
