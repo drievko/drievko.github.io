@@ -32,8 +32,8 @@ blockquote {
   quotes: '\201C' '\201D';
   background-color: #eee;
   float: left;
-  padding: 0 1em 0 1em;
-  margin-top: 2em;
+  padding: 1em 1em 0em;
+  margin-top: 0.5em;
 }
 
 /*****************************************************************************/
