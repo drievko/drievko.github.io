@@ -7,6 +7,22 @@
 @import url(http://fonts.googleapis.com/css?family=Parisienne);
 @import url(http://fonts.googleapis.com/css?family=Lato);
 
+/*****
+@font-face {
+  font-family: 'Parisienne';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Parisienne'), local('Parisienne-Regular'), url(/assets/fonts/parisienne.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(/assets/fonts/lato.woff) format('woff');
+}
+*****/
+
 body {
   background-color: #fff;
   font: 14px 'Lato', Helvetica, Arial, sans-serif;
