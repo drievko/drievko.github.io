@@ -7,6 +7,7 @@ permalink: /biografie/
 Biografie
 =========
 
+<a href="/assets/matthias-gross.jpg"><img style="float:right; margin-left: 1em;" src="/assets/matthias.jpg"></a>
 Matthias Holzapfel-Drievko arbeitete seit 2001 vornehmlich an der Musikschule der Stadt Innsbruck mit dem hauptsächlichen Tätigkeitsbereich "studienvorbereitende Ausbildung". Er hat dort zahlreiche Preisträger in Wettbewerben zum Erfolg geführt. Dabei stand er seinen Schülerinnen und Schülern stets auch als Klavierbegleiter zur Seite. Viele seiner einstigen Schüler studieren mittlerweile an Hochschulen oder stehen in Engagements auf der Bühne. Seinen Künstlernamen Matthias Drievko trägt er seit 1994 als Komponist und für alle öffentlichen Auftritte. Seit einiger Zeit unterrichtet er zunehmend wieder im Raum München und Starnberg.
 
 
@@ -22,7 +23,8 @@ Von September 2001 bis Februar 2013 arbeitete Matthias Holzapfel als Gesangslehr
 
 2012 erschien beim Doblinger-Verlag (Wien) sein Stimmbildungs-Lehrbuch „Die Seele in Klang verwandeln“.
 
-Seit einiger Zeit nimmt er wieder Unterricht bei der Gesangspädagogin Gudrun Ayasse (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.  
+Seit einiger Zeit nimmt er wieder Unterricht bei der Gesangspädagogin [Gudrun Ayasse], um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
 
 
 [Prima la musica]: http://www.musikderjugend.at/
+[Gudrun Ayasse]: http://www.gudrun-ayasse.de/
