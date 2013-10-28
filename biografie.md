@@ -12,18 +12,26 @@ Matthias Holzapfel-Drievko arbeitete seit 2001 vornehmlich an der Musikschule de
 
 
 
-Werdegang
----------
+Notizen zum Werdegang
+---------------------
 
-Geboren in Bad Kissingen, begann als Achtjähriger bei den Würzburger Domsingknaben, trat als Knaben-Solist im Raimundtheater in Wien auf und gelangte dann zu den Wiener Sängerknaben, wo er ebenfalls solistische Aufgaben wahrnahm und an Konzertreisen durch Nordamerika und Europa teilnahm. Am Richard-Strauss-Konservatorium in München studierte er Komposition bei Fritz Froschhammer und Klavier bei Alla von Buch. Bei Elaine Ortiz-Arandes, Michail Milanov und Kammersänger Richard Salter studierte er Gesang (privat). Zwischenzeitlich war er in so unterschiedlichen Metiers wie als Klavier- und Gesangslehrer, als Chorsänger an der Bayerischen Staatsoper, als Solist in klassischen Konzerten sowie mit Chanson-Programmen tätig. Mit Brecht-Tochter Hanne Hiob nahm er an zwei großen Tourneen durch Deutschland und Österreich teil (Kabarett-Programme). Es folgte eine langjährige Fortbildung bei der Logopädin Malena Marchand. Seit 1994 tritt er als Komponist und Sänger erstmals unter seinem Künstlernamen Matthias Drievko in Erscheinung.
+Geboren in Bad Kissingen, beginnt als Achtjähriger bei den Würzburger Domsingknaben, dann Knaben-Solist im Raimundtheater in Wien danach Wiener Sängerknabe, auch mit solistischen Aufgaben. Konzertreisen durch Nordamerika und Europa.
 
-Als Stimmbildner arbeitete er unter anderem beim Tölzer Knabenchor, wo er die Partien der Solisten für Produktionen bei den Salzburger Festspielen („Pelléas et Mélisande“, 1997) und den Münchner Opernfestspielen („L’incoronazione di Poppea“, 1998) einstudierte. Von 1999 bis 2002 leitete er den „Poinger Kinderchor“, für den er die Kinder-Oper „Das Kleine Weihnachts-Singspiel“ schrieb, die zwischen Dezember 1999 und 2002 an verschiedenen kleineren Bühnen in Bayern und Tirol (Theater an der Sill) aufgeführt wurde.
+Studium am Richard-Strauss-Konservatorium in München: Komposition bei Fritz Froschhammer, Klavier bei Alla von Buch. Gleichzeitig Gesangsstudium (privat) bei Elaine Ortiz-Arandes, Michail Milanov und Kammersänger Richard Salter.
 
-Von September 2001 bis Februar 2013 arbeitete Matthias Holzapfel als Gesangslehrer an der Musikschule der Stadt Innsbruck. Dort bereitete er eine Vielzahl an Schülern erfolgreich für Wettbewerbe und Vorsingen vor. In den letzten Jahren errangen mehr als zwanzig seiner Schüler Preise in den Landes- und Bundeswettbewerben von „[Prima la musica]“. Einige von ihnen  befinden sich mittlerweile bereits in Anfangs-Engagements. Die Vorbereitung von jungen Sängern auf Hochschulstudium und Bühnenlaufbahn setzt er nun in München fort.    
+Beginn beruflicher Tätigkeiten als Sänger, Chorleiter, Klavier- und Gesangslehrer, auch Auftritte mit Chanson-Programmen. Zwei große Tourneen durch Deutschland und Österreich mit Brecht-Tochter Hanne Hiob. Fortbildung bei der Logopädin Malena Marchand. 
 
-2012 erschien beim Doblinger-Verlag (Wien) sein Stimmbildungs-Lehrbuch „Die Seele in Klang verwandeln“.
+Zwischenzeitlich Stimmbildner beim Tölzer Knabenchor: Einstudierung großer Partien der Solisten für Produktionen bei den Salzburger Festspielen („Pelléas et Mélisande“, 1997) und den Münchner Opernfestspielen („L’incoronazione di Poppea“, 1998).
 
-Seit einiger Zeit nimmt er wieder Unterricht bei der Gesangspädagogin [Gudrun Ayasse], um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
+Leitung des „Poinger Kinderchors“ (1999 bis 2002), woraus sich die Komposition der Oper „Das Kleine Weihnachts-Singspiel“ mit zahlreichen Aufführungen von Dezember 1999 bis 2002 an verschiedenen kleineren Bühnen in Bayern und Tirol (u.a.: Theater an der Sill, Innsbruck) ergab.
+
+Von September 2001 bis Februar 2013 fast ausschließlich tätig als Gesangslehrer an der Musikschule der Stadt Innsbruck (Vollzeit). 
+
+2012: Publikation des aus der Unterrichtspraxis entstandenen Stimmbildungs-Lehrbuchs „Die Seele in Klang verwandeln“ beim Doblinger-Verlag (Wien). 
+
+Seit 2012 erneute Aufnahme von Gesangsunterricht, nun bei der Gesangspädagogin [Gudrun Ayasse] (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
+
+Die Vorbereitung für junge Sängerinnen und Sängern auf Hochschulstudium und Bühnenlaufbahn wird seit 2013 in München fortgesetzt.
 
 
 [Prima la musica]: http://www.musikderjugend.at/
