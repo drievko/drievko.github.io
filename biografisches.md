@@ -31,7 +31,7 @@ Von September 2001 bis Februar 2013 fast ausschließlich tätig als Gesangslehre
 
 Seit 2012 erneute Aufnahme von Gesangsunterricht, nun bei der Gesangspädagogin Gudrun Ayasse (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
 
-Die Vorbereitung für junge Sängerinnen und Sängern auf Hochschulstudium und Bühnenlaufbahn wird seit 2013 in München fortgesetzt.
+Die Vorbereitung für junge Sängerinnen und Sänger auf Hochschulstudium und Bühnenlaufbahn wird seit 2013 in München fortgesetzt.
 
 
 [Gudrun Ayasse]: http://www.gudrun-ayasse.de/
