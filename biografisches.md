@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Biografie
-permalink: /biografie/
+title: Biografisches
+permalink: /biografisches/
 ---
 
 Biografie
@@ -29,10 +29,9 @@ Von September 2001 bis Februar 2013 fast ausschließlich tätig als Gesangslehre
 
 2012: Publikation des aus der Unterrichtspraxis entstandenen Stimmbildungs-Lehrbuchs „Die Seele in Klang verwandeln“ beim Doblinger-Verlag (Wien). 
 
-Seit 2012 erneute Aufnahme von Gesangsunterricht, nun bei der Gesangspädagogin [Gudrun Ayasse] (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
+Seit 2012 erneute Aufnahme von Gesangsunterricht, nun bei der Gesangspädagogin Gudrun Ayasse (München), um die eigene Technik zu verfeinern und Kenntnisse über Stimmphysiologie und moderne gesangspädagogische Wege zu vertiefen.
 
 Die Vorbereitung für junge Sängerinnen und Sängern auf Hochschulstudium und Bühnenlaufbahn wird seit 2013 in München fortgesetzt.
 
 
-[Prima la musica]: http://www.musikderjugend.at/
 [Gudrun Ayasse]: http://www.gudrun-ayasse.de/
