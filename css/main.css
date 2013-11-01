@@ -4,17 +4,9 @@
 /*
 /*****************************************************************************/
 
-@import url(http://fonts.googleapis.com/css?family=Parisienne);
 @import url(http://fonts.googleapis.com/css?family=Lato);
 
 /*****
-@font-face {
-  font-family: 'Parisienne';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Parisienne'), local('Parisienne-Regular'), url(/assets/fonts/parisienne.woff) format('woff');
-}
-
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -22,6 +14,11 @@
   src: local('Lato Regular'), local('Lato-Regular'), url(/assets/fonts/lato.woff) format('woff');
 }
 *****/
+
+@font-face {
+  font-family: 'Maiandra GD';
+  src: url(/assets/fonts/maiandra-gd.ttf) format('TrueType');
+}
 
 body {
   background-color: #fff;
@@ -58,7 +55,7 @@ blockquote {
   padding: 1em;
 }
 blockquote :first-child { display: inline; }
-blockquote :last-child { margin: 0em; }
+blockquote :last-child  { margin: 0em; }
 
 
 /*****************************************************************************/
@@ -116,7 +113,7 @@ ul.posts span {
 }
 
 .site .header h2.title {
-  font-family: 'Parisienne', cursive;
+  font-family: 'Maiandra GD';
   font-size: x-large;
   margin-top: 0;
   margin-bottom: 1em;
@@ -178,7 +175,8 @@ ul.posts span {
 /*****************************************************************************/
 
 #home p {
-  font-family: 'Parisienne', cursive;
+  font-family: 'Maiandra GD';
+  font-style: italic;
   font-size: 4em;
 }
 
