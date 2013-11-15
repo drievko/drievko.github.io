@@ -88,7 +88,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 40em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -115,8 +115,9 @@ ul.posts span {
 .site .header h2.title {
   font-family: 'Maiandra GD';
   font-size: x-large;
+  letter-spacing: 0.15em;
+  color: #7f1734;
   margin-top: 0;
-  margin-bottom: 1em;
 }
 
 .site .header .navigation ul {
@@ -176,8 +177,7 @@ ul.posts span {
 
 #home p {
   font-family: 'Maiandra GD';
-  font-style: italic;
-  font-size: 4em;
+  font-size: 3em;
 }
 
 #home a {

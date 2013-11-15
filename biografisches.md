@@ -4,11 +4,10 @@ title: Biografisches
 permalink: /biografisches/
 ---
 
-Biografie
-=========
+<h1 align="center">Matthias Holzapfel<br>–Drievko–</h1>
 
 <a href="/assets/matthias-gross.jpg"><img style="float:right; margin-left: 1em;" src="/assets/matthias.jpg"></a>
-Matthias Holzapfel-Drievko arbeitete seit 2001 vornehmlich an der Musikschule der Stadt Innsbruck mit dem hauptsächlichen Tätigkeitsbereich "studienvorbereitende Ausbildung". Er hat dort zahlreiche Preisträger in Wettbewerben zum Erfolg geführt. Dabei stand er seinen Schülerinnen und Schülern stets auch als Klavierbegleiter zur Seite. Viele seiner einstigen Schüler studieren mittlerweile an Hochschulen oder stehen in Engagements auf der Bühne. Seinen Künstlernamen Matthias Drievko trägt er seit 1994 als Komponist und für alle öffentlichen Auftritte. Seit einiger Zeit unterrichtet er zunehmend wieder im Raum München und Starnberg.
+... arbeitete seit 2001 vornehmlich an der Musikschule der Stadt Innsbruck mit dem hauptsächlichen Tätigkeitsbereich "studienvorbereitende Ausbildung". Er hat dort zahlreiche Preisträger in Wettbewerben zum Erfolg geführt. Dabei stand er seinen Schülerinnen und Schülern stets auch als Klavierbegleiter zur Seite. Viele seiner einstigen Schüler studieren mittlerweile an Hochschulen oder stehen in Engagements auf der Bühne. Seinen Künstlernamen Matthias Drievko trägt er seit 1994 als Komponist und für alle öffentlichen Auftritte. Seit einiger Zeit unterrichtet er zunehmend wieder im Raum München und Starnberg.
 
 
 
