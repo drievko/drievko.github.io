@@ -6,9 +6,270 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
 
-    <!-- load data asynchronously, see http://async.soluch.at/ -->
-    <script>(function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);</script>
-    <script>asyncLoader(['/css/reset.css', '/css/main.css']);</script>
+<style>
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+</style>
+
+
+<style>
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+/*****
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(/assets/fonts/lato.woff) format('woff');
+}
+*****/
+
+@font-face {
+  font-family: 'Maiandra GD';
+  src: url(/assets/fonts/maiandra-gd.ttf) format('TrueType');
+}
+
+body {
+  background-color: #fff;
+  font: 14px 'Lato', Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+h1 { margin-bottom: 1em; font-size: x-large; font-weight: bold;}
+h2 { margin: 2em 0 1em; font-size: large; font-style: italic; }
+p  { margin: 1em 0; }
+
+a         { color: #00a; }
+a:hover   { color: #000; }
+a:visited { color: #a0a; }
+
+em     { font-style: italic; }
+strong { font-weight: bold;  }
+
+ul       { list-style-type: disc; margin-left: 2em; }
+ul li ul { list-style-type: circle; }
+
+table { border-collapse: separate; border-spacing: 1em 0.5em; }
+
+blockquote:before {
+  content: open-quote;
+  font-size: 3em;
+  vertical-align: -0.25em;
+  margin-right: 0.25em;
+}
+blockquote {
+  quotes: '\201C' '\201D';
+  background-color: #eee;
+  padding: 1em;
+}
+blockquote :first-child { display: inline; }
+blockquote :last-child  { margin: 0em; }
+
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  font-size: 115%;
+  text-align: justify;
+  width: 40em;
+  margin: 3em auto 2em;
+  line-height: 1.5em;
+}
+
+.site .header {  
+  border-bottom: 3px solid #7f1734;
+  margin-bottom: 1em;
+}
+
+.site .header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site .header h1.title a {
+  font-size: xx-large;
+  color: #000;
+}
+
+.site .header h1.title a:hover {
+  color: #7f1734;
+}
+
+.site .header h2.title {
+  font-family: 'Maiandra GD';
+  font-size: x-large;
+  letter-spacing: 0.15em;
+  color: #7f1734;
+  margin-top: 0;
+}
+
+.site .header .navigation ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.site .header .navigation ul li {
+  float: left;
+}
+
+.site .header .navigation ul li ul li {
+  float: none;
+}
+
+.site .header .navigation ul a {
+  width: 8em;
+  display: block;
+  color: #aaa;
+}
+
+.site .header .navigation ul a:hover {
+  color: #7f1734;
+}
+
+.site .header .navigation {
+  background-color: #eee;
+  margin-bottom: 1em;
+}
+
+.site .header .navigation div {
+  clear: left;
+}
+
+.site .footer {
+  color: #666;
+  border-top: 3px solid #7f1734;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #8085C1;
+}
+
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+#home p {
+  font-family: 'Maiandra GD';
+  font-size: 3em;
+}
+
+#home a {
+  text-decoration: none;
+  color: #000;
+}
+
+#home a:hover {
+  color: #7f1734;
+}
+
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+</style>
+
   </head>
 
   <body>
