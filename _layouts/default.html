@@ -5,67 +5,66 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-
-        <!-- load data asynchronously, see http://async.soluch.at/ -->
-        <script>(function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);</script>
-        <script>asyncLoader(['/css/reset.css', '/css/main.css']);</script>
-
     </head>
+
     <body>
-
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <h2 class="title">{{ site.motto }}</h2>
-              <div class="navigation">
-                <ul>
-                  <li><a style="width: 5em;" href="/">Start</a></li>
-                  <li>
-                    <ul style="width: 11em;">
-                      <li><a href="/gesang">Gesangsunterricht</a></li>
-                      <li><a href="/theorie">Musiktheorie</a></li>
-                      <li><a href="/klavier">Klavierunterricht</a></li>
-                    </ul>
-                  </li>
-                  <li>
-                    <ul style="width: 8em;">
-                      <li><a href="/lehrbuch">Lehrbuch</a></li>
-                      <li><a href="/werke">Werke</a></li>
-                      <li><a href="/hoerproben">Hörproben</a></li>
-                    </ul>
-                  </li>
-                  <li>
-                    <ul style="width: 9em;">
-                      <li><a href="/referenzen">Referenzen</a></li>
-                      <li><a href="/biografisches">Biografisches</a></li>
-                      <li><a href="/aktuelles">Aktuelles</a></li>
-                    </ul>
-                  </li>
-                  <li><a style="width: 7em;" href="/impressum">Impressum</a></li>
-                </ul>
-                <div></div> <!-- so we can apply "clear: left;" in CSS here -->
-              </div>
-            </div>
-
-            {{ content }}
-
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Matthias Holzapfel&nbsp;&nbsp;&nbsp;&nbsp;–Drievko–<br />
-                  Gesangspädagoge & Komponist
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  Tel.: (+49) 0151 10 92 67 39<br />
-                  Mail: <a href="mailto:matthias.drievko@web.de">matthias.drievko@web.de</a>
-                </p>
-              </div>
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <h2 class="title">{{ site.motto }}</h2>
+            <div class="navigation">
+              <ul>
+                <li><a style="width: 5em;" href="/">Start</a></li>
+                <li>
+                  <ul style="width: 11em;">
+                    <li><a href="/gesang">Gesangsunterricht</a></li>
+                    <li><a href="/theorie">Musiktheorie</a></li>
+                    <li><a href="/klavier">Klavierunterricht</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul style="width: 8em;">
+                    <li><a href="/lehrbuch">Lehrbuch</a></li>
+                    <li><a href="/werke">Werke</a></li>
+                    <li><a href="/hoerproben">Hörproben</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul style="width: 9em;">
+                    <li><a href="/referenzen">Referenzen</a></li>
+                    <li><a href="/biografisches">Biografisches</a></li>
+                    <li><a href="/aktuelles">Aktuelles</a></li>
+                  </ul>
+                </li>
+                <li><a style="width: 7em;" href="/impressum">Impressum</a></li>
+              </ul>
+              <div></div> <!-- so we can apply "clear: left;" in CSS here -->
             </div>
           </div>
-        </div> <!-- /container -->
+
+          {{ content }}
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Matthias Holzapfel&nbsp;&nbsp;&nbsp;&nbsp;–Drievko–<br />
+                Gesangspädagoge & Komponist
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                Tel.: (+49) 0151 10 92 67 39<br />
+                Mail: <a href="mailto:matthias.drievko@web.de">matthias.drievko@web.de</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div> <!-- /container -->
+
+      <!-- load data asynchronously, see http://async.soluch.at/ -->
+      <script>(function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);</script>
+      <script>asyncLoader(['/css/reset.css', '/css/main.css']);</script>
 
     </body>
 </html>
