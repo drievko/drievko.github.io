@@ -16,6 +16,34 @@ permalink: /hoerproben/
 Hörproben
 =========
 
-Der Seufzer: <audio src="/assets/seufzer.mp3" preload="none">Der Seufzer</audio>
 
-Das ästhetische Wiesel: <audio src="/assets/wiesel.mp3" preload="none">Das ästhetische Wiesel</audio>
+Matthias Drievko  
+... als Komponist, Klavierbegleiter, Gesangslehrer, Sänger
+
+Der Seufzer
+-----------
+
+(Text: Christian Morgenstern / Musik: Matthias Drievko)  
+Elaine Ortiz-Arandes, Sopran  
+Matthias Drievko, Klavier
+
+<audio src="/assets/seufzer.mp3" preload="none">Der Seufzer</audio>
+
+
+Requiescat
+----------
+
+(Oscar Wilde / Matthias Drievko)  
+Matthias Drievko, Gesang und Klavier
+
+[wird in Kürze bereitgestellt]
+
+
+Das ästhetische Wiesel
+----------------------
+
+(Christian Morgenstern /  Matthias Drievko)  
+Gerald Fux, Knaben-Sopran (als Schüler d. Komponisten)  
+Matthias Drievko, Klavier
+
+<audio src="/assets/wiesel.mp3" preload="none">Das ästhetische Wiesel</audio>

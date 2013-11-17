@@ -15,7 +15,7 @@ In dem Bühnenwerk „Die Nachtigall und die Rose“, basierend auf dem gleichna
 
 Die Premiere der „großen Fassung“ ist für Ende 2014 in Planung.
 
-<br />
+<a href="/assets/nachtigall-partitur-gross.bmp"><img src="/assets/nachtigall-partitur.png"></a>
 
 > Wenn du eine rote Rose haben willst... dann musst du sie beim Mondlicht aus Liedern weben und sie färben mit deinem eigenen Herzblut. Du musst für mich singen und deine Brust an meinen Dorn pressen. Die ganze Nacht musst du singen, und der Dorn muss dein Herz durchbohren, und dein Lebensblut muss in meine Adern fließen und mein werden, denn nur einer Nachtigall Herzblut kann eine rote Rose schaffen.
 
