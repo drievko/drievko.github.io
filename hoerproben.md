@@ -4,11 +4,13 @@ title: Hörproben
 permalink: /hoerproben/
 ---
 
-<script src="/scripts/audiojs/audio.min.js"></script>
+<script>{% include audio.min.js %}</script>
 
 <script>
   audiojs.events.ready(function() {
-    var as = audiojs.createAll();
+    var as = audiojs.createAll({
+      imageLocation: '/assets/audiojs/player-graphics.gif',
+      swfLocation: '/assets/audiojs/audiojs.swf'});
   });
 </script>
 
