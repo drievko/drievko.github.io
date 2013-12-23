@@ -38,7 +38,7 @@ Requiescat
 (Oscar Wilde / Matthias Drievko)  
 Matthias Drievko, Gesang und Klavier
 
-[wird in Kürze bereitgestellt]
+<audio src="/assets/requiescat.mp3" preload="none">Requiescat</audio>
 
 
 Das ästhetische Wiesel
