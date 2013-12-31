@@ -22,6 +22,7 @@ Hörproben
 Matthias Drievko  
 ... als Komponist, Klavierbegleiter, Gesangslehrer, Sänger
 
+
 Der Seufzer
 -----------
 
@@ -49,3 +50,19 @@ Gerald Fux, Knaben-Sopran (als Schüler d. Komponisten)
 Matthias Drievko, Klavier
 
 <audio src="/assets/wiesel.mp3" preload="none">Das ästhetische Wiesel</audio>
+
+
+„In diesen heil’gen Hallen“ - Auszug
+-------------------------------------
+
+(Arie des Sarastro aus „Die Zauberflöte“ von  W. A.  Mozart)  
+Matthias Drievko, Bass
+<audio src="/assets/sarastro-ausschnitt.mp3" preload="none">In diesen heil’gen Hallen</audio>
+
+
+Avec le temps
+-------------
+
+(Chanson von Léo Ferré)  
+Matthias Drievko, Gesang und Klavier
+<audio src="/assets/avec-le-temps.mp3" preload="none">Avec le temps</audio>
