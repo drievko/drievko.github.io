@@ -27,11 +27,24 @@ einem neuen Kompositionsauftrag für die Tiroler Festspiele 2015,
 ausgesprochen wenige Wochen nach der Aufführung der „[Nachtigall](/werke)“.
 
 
-> [„Die Seele in Klang verwandeln“][Lehrbuch] ist das "missing manual" für das Betriebssystem Gesangsstimme, geschrieben von einem, der das Singen aus allen Blickwinkeln kennt: Matthias Drievko, Sohn einer Opernsängerin und Solist bei den Wiener Sängerknaben, ist heute nicht nur ein erfolgreicher Gesangslehrer und Sänger, sondern auch Chansonnier und Komponist von Liedern. Vor allem aber ist er ein höchst geistreicher Kopf, der es versteht, große Zusammenhänge in seine Arbeit einzubringen ...
+> [„Die Seele in Klang verwandeln“][Lehrbuch] ist das "missing manual"
+> für das Betriebssystem Gesangsstimme, geschrieben von einem,
+> der das Singen aus allen Blickwinkeln kennt:
+> Matthias Drievko, Sohn einer Opernsängerin und Solist bei den Wiener Sängerknaben,
+> ist heute nicht nur ein erfolgreicher Gesangslehrer und Sänger,
+> sondern auch Chansonnier und Komponist von Liedern.
+> Vor allem aber ist er ein höchst geistreicher Kopf, der es versteht,
+> große Zusammenhänge in seine Arbeit einzubringen ...
 
-Prof. Mag. Franz Farnberger, künstlerischer Leiter der St. Florianer Sängerknaben
+Prof. Mag. Franz Farnberger, künstlerischer Leiter der [St. Florianer Sängerknaben]
 
-> Ich kenne Matthias Drievko bereits seit längerer Zeit und bin von seiner Arbeit als Gesangspädagoge sehr überzeugt. Vom ersten bis zum letzten Tag seines Unterrichts ist ihm der menschliche Umgang mit seinen Studenten ein besonderes Anliegen. Er begleitet seine Schüler wie ein Hirte auch durch schwierige Zeiten. Geduldig lässt er die Schüler teilhaben an seinem enormen Wissen und Können, um ihnen den Weg in Richtung Gesangskarriere zu ebnen.
+> Ich kenne Matthias Drievko bereits seit längerer Zeit und
+> bin von seiner Arbeit als Gesangspädagoge sehr überzeugt.
+> Vom ersten bis zum letzten Tag seines Unterrichts ist ihm
+> der menschliche Umgang mit seinen Studenten ein besonderes Anliegen.
+> Er begleitet seine Schüler wie ein Hirte auch durch schwierige Zeiten.
+> Geduldig lässt er die Schüler teilhaben an seinem enormen Wissen und Können,
+> um ihnen den Weg in Richtung Gesangskarriere zu ebnen.
 
 Barbara Daniels, Opernsängerin
 
@@ -41,3 +54,4 @@ Barbara Daniels, Opernsängerin
 
 
 [Lehrbuch]: /veroeffentlichungen
+[St. Florianer Sängerknaben]: http://www.florianer.at/
