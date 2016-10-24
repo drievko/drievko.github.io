@@ -36,7 +36,7 @@ ausgesprochen wenige Wochen nach der Aufführung der „[Nachtigall](/werke)“.
 > Vor allem aber ist er ein höchst geistreicher Kopf, der es versteht,
 > große Zusammenhänge in seine Arbeit einzubringen ...
 
-Prof. Mag. Franz Farnberger, künstlerischer Leiter der [St. Florianer Sängerknaben]
+Prof. Mag. Franz Farnberger, künstlerischer Leiter der [St. Florianer Sängerknaben] []
 
 > Ich kenne Matthias Drievko bereits seit längerer Zeit und
 > bin von seiner Arbeit als Gesangspädagoge sehr überzeugt.
