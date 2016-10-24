@@ -7,6 +7,26 @@ permalink: /referenzen/
 Referenzen
 ==========
 
+> Lieber Herr Drievko!
+>
+> In jungen Jahren habe ich von meinem unglaublich liebenswürdigen Agenten aus Wien,
+> der leider, wie so viele, 1933 mit den Eltern nach London auswandern mußte,
+> folgendes gelernt:
+> "Was ist ein Erfolg? Die Musiker sind von ihrem Stück begeistert - Nein.
+> Das Publikum hat sehr positiv reagiert - Nein. Sie bekommen einen neuen Auftrag - Ja!
+> Sie, lieber Herr Drievko bekommen einen neuen Auftrag.
+> Und als Zugabe darf ich noch schreiben, daß größte Zustimmung von Seiten des Publikums,
+> aber auch von den ausführenden Musikern selbst, der wohlverdiente Lohn für
+> Ihre so gute und stimmige Arbeit war.
+>
+> Mit den besten Grüßen  
+> Gustav Kuhn
+
+Kommentar vom Intendanten Gustav Kuhn in Verbindung mit
+einem neuen Kompositionsauftrag für die Tiroler Festspiele 2015,
+ausgesprochen wenige Wochen nach der Aufführung der „[Nachtigall](/werke)“.
+
+
 > [„Die Seele in Klang verwandeln“][Lehrbuch] ist das "missing manual" für das Betriebssystem Gesangsstimme, geschrieben von einem, der das Singen aus allen Blickwinkeln kennt: Matthias Drievko, Sohn einer Opernsängerin und Solist bei den Wiener Sängerknaben, ist heute nicht nur ein erfolgreicher Gesangslehrer und Sänger, sondern auch Chansonnier und Komponist von Liedern. Vor allem aber ist er ein höchst geistreicher Kopf, der es versteht, große Zusammenhänge in seine Arbeit einzubringen ...
 
 Prof. Mag. Franz Farnberger, künstlerischer Leiter der St. Florianer Sängerknaben
