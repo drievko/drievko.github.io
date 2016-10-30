@@ -33,6 +33,9 @@ Gratwanderung zwischen einer sehr experimentellen, mathematischen Kompositionswe
 unerwartet tonalen „konventionellen“ Passagen.
 Das „Acies-Quartett“ brillierte in dem technisch extrem anspruchsvollen Stück.
 
+![](/assets/2015-12-28-streichquartett.jpg)
+*Uraufführung Streichquartett in Erl.*
+
 Februar / März 2016: Beteiligung als Arrangeur (zusammen mit Gerold Huber) an
 einer CD-Produktion bekannter Kinderlieder unter der Leitung von Ricarda Geary.
 Die CD ist mittlerweile im Handel.
