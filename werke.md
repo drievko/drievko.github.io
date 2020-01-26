@@ -7,6 +7,36 @@ permalink: /werke/
 Werke
 =====
 
+(Auswahl)
+
+Umfangreiches Lieder-Schaffen
+-----------------------------
+
+* Chansons nach Texten von Bert Brecht und Erich Kästner
+* Vier Lieder in memoriam Lucia Popp
+* Lieder nach Texten von Erich Fried, Christian Morgenstern, Heinrich Heine, Oscar Wilde u.a.
+* Humoristische Lieder und Kanons
+
+Opern
+-----
+
+* *Das kleine Weihnachts-Singspiel* (1999)
+* *Die Nachtigall und die Rose* (2007)
+* *Das Gespenst von Canterville* (fragmentarisch)
+
+Kammermusik
+-----------
+
+* Rondo für Violine und Klavier
+* Sonate für Saxophon und Klavier
+* *Streichquartett* (2015, Auftragskomposition der Tiroler Festspiele)
+
+Arrangements
+------------
+
+Zahlreiche Auftragsarbeiten für Kinder-Chor und Orchester,
+Kammer-Ensembles, Streichquartett,  u.a.
+
 
 Die Nachtigall und die Rose
 ---------------------------
