@@ -30,7 +30,7 @@ Es war die Rückkehr in seine eigentliche geistige Heimat Österreich…
 Ergänzende Notizen zum Werdegang
 --------------------------------
 
-Geboren in Bad Kissingen unter dem bürgerlichen Namen Matthias Holzapfel,
+Geboren in Bad Kissingen,
 beginnt er als Achtjähriger bei den Würzburger Domsingknaben,
 singt dann als Knaben-Solist im Raimundtheater in Wien,
 und danach bei den *Wiener Sängerknaben*, auch mit solistischen Aufgaben.
